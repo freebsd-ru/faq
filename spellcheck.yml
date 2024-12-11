@@ -1,0 +1,11 @@
+matrix:
+- name: Readme
+  sources:
+  - README.md
+  hunspell:
+    lang: ru
+    d: ru_RU
+
+  dictionary:
+    wordlists:
+    - ru-custom.txt

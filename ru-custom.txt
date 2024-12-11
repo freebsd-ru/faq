@@ -1,0 +1,5 @@
+FreeBSD
+KDE
+freebsd
+https
+ru
